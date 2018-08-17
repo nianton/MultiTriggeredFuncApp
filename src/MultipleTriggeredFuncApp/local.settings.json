@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "PRIMARYSB_CONNECTION": "xxx",
+    "SECONDARYSB_CONNECTION": "xxx",
+    "SBCONNECTION1": "xxx",
+    "SBCONNECTION2": "xxx",
+    "SBCONNECTION3": "xxx"
+  }
+}
